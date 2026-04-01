@@ -3,7 +3,7 @@
 
 i am nagaraj muradi
 
-i am B.Tech student at government engineering college Hassan 
+B.Tech 2nd year student at government engineering college Hassan 
 
 <!--
 **nagaraj-muradi/nagaraj-muradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
